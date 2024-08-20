@@ -1,9 +1,6 @@
-> This is going to be more of a log on WHEN WHAT HAPPENED & maybe a planner for WHEN WHAT MIGHT HAPPEN.
-
+> This is a log on WHEN WHAT HAPPENED & maybe a planner for WHEN WHAT MIGHT HAPPEN.
 > Oh & before i forget... " ALL HAIL NAGARAJA "
-
 > \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
-
 
 
 [20-08-24] 
