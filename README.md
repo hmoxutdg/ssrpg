@@ -1,4 +1,5 @@
 > This is a log on WHEN WHAT HAPPENED & maybe a planner for WHEN WHAT MIGHT HAPPEN.
+
 > Oh & before i forget... " ALL HAIL NAGARAJA "
 > \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
 
