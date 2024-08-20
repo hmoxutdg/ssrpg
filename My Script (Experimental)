@@ -1,0 +1,54 @@
+
+
+// Low Health == Use Potion
+
+ ?hp < 7
+  activate potion
+
+
+// Lost R == Activate R for LI Blade OTF
+
+ ?foe.count > 2  
+  ^ & item.GetCooldown(＂blade＂) <= 0  
+   equip blade  
+    activate R
+
+
+// loadout 1 = AOE damage (PW Splash + Bow)
+
+ ?foe.count > 4 | ?foe = immune_to_physical
+  loadout 1
+
+
+// loadout 2 = Mining Team
+
+ ?loc = rocky
+  equip shovel
+
+
+// loadout 3 = Health + Damage (Sword + Bow)
+ 
+
+
+// loadout 4 = Double Melee + LF ( S + BS )
+
+ ?foe = immune_to_ranged  
+  loadout 4
+
+
+
+// loadout 5 = Star + Axe
+
+ ?foe.count = 0 | foe.distance > 20
+  loadout 5
+
+
+// loadout 6 = Star + (Something here)
+
+ ?foe.count = 0 | foe.distance > 20
+  loadout 6
+
+
+
+
+
