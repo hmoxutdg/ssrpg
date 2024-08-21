@@ -1,0 +1,25 @@
+// This is just to keep the loop running if helath goes low 
+// Any Loc works + Keep your stats in mind
+
+?hp < 20
+  Activate potion 
+
+// Now for the Blade Code
+// Foe count can be greater that 4 or 5 
+// Both for Quest 3 & Quest 4
+
+// Q3: Defeat 35 unique foes using Blade Activate R
+// Q4: Actibvate R >> Get Smite >> Inflict debuffs >> Get 300000 total damage using debuffs >> Counts only damage against bosses.
+
+?foe.count > 4 
+ ^ &item.GetCooldown("blade") <= 0
+   Equip blade
+   Activate R
+?item.GetCooldown("blade") > 0
+ Loadout 1
+
+// So what it does is, it equips the blade when there are 4 or more enemies on screen >> activates ability >> and switches back to your main loadout 
+// for me its Loadout 1 after the blade ability is used.
+
+// Q4: I'm still experimenting with this, this one is way too slow, 
+// After 9 - 11 hours of loop runs in mushroom forest my current progress is [ 2 8 , 0 0 0 / 3 0 0 , 0 0 0 ]
