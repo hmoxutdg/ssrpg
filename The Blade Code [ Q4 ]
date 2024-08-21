@@ -1,0 +1,35 @@
+**// Deadwood Forest: My Strat**
+
+**// keep the loop running with heals**
+?hp > 20
+  activate potion
+
+**// Activate R: at a good point int the stage**
+**// 85 Smite**
+?foe.count > 4 & foe.distance < 25
+^ & item.GetCooldown(＂blade＂) <= 0
+  Equip blade
+  Activate R
+?item.GetCooldown(＂blade＂) >0
+  Loadout 4
+
+**// First batch of debuffs: Poison + Fire**
+?foe = boss & foe.debuffs.count = 0
+  Loadout 1
+
+**// Second dose of debuffs: Ice + aether**
+?foe = boss & foe.debuffs.count = 2
+  Loadout 2
+
+**// Switch to my double sword loadout + No debuffs**
+?foe = immune_to_ranged & foe.distance < 20
+  loadout 4
+
+**// Speed up Pickups**
+?pickup.distance < 5
+  loadout 5
+
+
+
+
+**//Might attach a Third dose of debuffs**
