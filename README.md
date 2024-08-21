@@ -24,3 +24,6 @@
 
 > Finally Got some Automation Activated. But still a long way ahead.
 > Plus Loop for Blade Q4 Continued with 85 Smite Damage & 4 Debuffs.
+
+> Still NO to any TWO HANDED WEAPONS >> NO to ANY.
+> After BLADE back to Grind for Progress. 
