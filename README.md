@@ -21,3 +21,6 @@
 > Blade of the Fallen God: Q3 completed & Q4 is a bitch 
 > Q4: I'm still experimenting with this, this one is way too slow, 
 > After 9 - 11 hours of loop runs in mushroom forest my current progress is [ 2 8 , 0 0 0 / 3 0 0 , 0 0 0 ]
+
+> Finally Got some Automation Activated. But still a long way ahead.
+> Plus Loop for Blade Q4 Continued with 85 Smite Damage & 4 Debuffs.
