@@ -24,12 +24,13 @@
 
 > Finally Got some Automation Activated. But still a long way ahead.
 > Plus Loop for Blade Q4 Continued with 85 Smite Damage & 4 Debuffs.
+> **Added code for Blade Q3 & Q4 (Q4: Might add 3rd dose)**
+
 
 > Still NO to any TWO HANDED WEAPONS >> NO to ANY.
 > After BLADE back to Grind for Progress. 
 > HEALTH instead of ARMOR for NOW & ALWAYS
 
-> Oh & before i forget... " ALL HAIL NAGARAJA "
-> \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
+> **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 > Blade OTF >> Q4 >> 40K of 300K Reached.
