@@ -27,5 +27,7 @@
 
 > Still NO to any TWO HANDED WEAPONS >> NO to ANY.
 > After BLADE back to Grind for Progress. 
-
 > HEALTH instead of ARMOR for NOW & ALWAYS
+
+> Oh & before i forget... " ALL HAIL NAGARAJA "
+> \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
