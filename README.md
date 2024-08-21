@@ -31,3 +31,5 @@
 
 > Oh & before i forget... " ALL HAIL NAGARAJA "
 > \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
+
+> Blade OTF >> Q4 >> 40K of 300K Reached.
