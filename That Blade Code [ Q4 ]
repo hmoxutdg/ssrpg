@@ -22,11 +22,11 @@
   Loadout 2
 
 **// Switch to my double sword loadout + No debuffs**
-?foe = immune_to_ranged & foe.distance < 20
+?foe = immune_to_ranged & foe.distance < 14
   loadout 4
 
 **// Speed up Pickups**
-?pickup.distance < 5
+?pickup.distance < 4
   loadout 5
 
 
