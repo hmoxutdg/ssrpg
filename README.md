@@ -48,6 +48,8 @@
 
 > Went against my ideals and MAXED OUT a Heavy Crossbow. That thing can do **80 dmg/sec** which is 8 **attacks/sec**. Kinda nice. thinking of giving it a red enchanment when i have any available. 
 
+> Oh just reached 10:46 AM & we are at: **294K** >> Yeah might be done by 12:00 PM.
+
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 
