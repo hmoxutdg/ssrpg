@@ -50,6 +50,8 @@
 
 > Oh just reached 10:46 AM & we are at: **294K** >> Yeah might be done by 12:00 PM.
 
+> Houston We did it. **300 Motha Fucking K** of 300K Blade of the Fallen [Q4] @_11:17 AM
+
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 
