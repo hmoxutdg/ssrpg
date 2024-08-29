@@ -54,5 +54,13 @@
 
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
+[29=08-24]
 
+> Yo been a week. Wnent on some unusual hiatus/ Day job got stingy, rarely get time to jot down stuff.
+> Took a mini break from the game. BACK NOW.
 
+> **DANGER IN THE WOODS** is active. Gonna grind for it. Only 10 days left in this. Seems a bit tough. Lets see what i can achive here.
+> Might buy the premium version if i get far enough.
+
+> 00/35 POINTS. Starting to right
+> Will take some time, maybe finish over the weekend
