@@ -1,7 +1,9 @@
+loadout 4
+
 ? hp < 20
  activate potion
 
-?summon.count = 0 
+?summon.count = 0 & ?item.GetCooldown("aether_talisman") <= 0
  loadout 5
   activate R
 
