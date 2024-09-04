@@ -54,6 +54,7 @@
 
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
+
 [29-08-24]
 
 > Yo been a week. Wnent on some unusual hiatus/ Day job got stingy, rarely get time to jot down stuff.
@@ -65,12 +66,13 @@
 > 00/35 POINTS. Starting to right
 > Will take some time, maybe finish over the weekend
 
+
 [29-08-24]
 
 > Around 20/35 i think. New quests coming every 6 or 12 hours. So the wait begins.
 
 
-[04-09-24]
+[04-09-24] P1
 
 > Truth be told. I came to a point where everthign seemed to shun me to the point of no return.
 > I know seems cliche but i survived somehow i think. Rethinking my whole strat with the game. It definitely pushes you hard.
@@ -86,3 +88,14 @@
 > This is fun. **Oh 35/35 Dead Wood Event.**
 
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
+
+
+[04-09-24] P2
+
+> Shit needed some experimentation. Kept not summoning buddy at start of each loop.
+
+> Added some minor adjustments + default loadout + item cooldown condition to "aether_talisman"
+
+> Working perfect currently + Will try in all biomes and shasre findings. 
+
+> This better work. Kudos. 
