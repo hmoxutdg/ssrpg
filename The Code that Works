@@ -1,0 +1,33 @@
+? hp < 20
+ activate potion
+
+?summon.count = 0 
+ loadout 5
+  activate R
+
+?summon.count = 1
+ loadout 4
+
+?foe = immune_to_physical
+ loadout 1
+
+?foe = immune_to_ranged
+ loadout 2
+
+?pickup
+ loadout 5
+
+-----------------------------------------------
+
+> Okay so this code works well. It's a simple script, But the order matters in code and it has some smooth output results. 
+
+> Currently running a loop based on this script. Good results after a while. It also depends on your loadout. 
+> I'll specify what each loadout of mine is. 
+
+// L0: The stash + Not a real loadout + Potion
+// L1: PW + FW = AOE + Wands + Magic
+// L2: FS + VBS = Swords + Physical + Melee
+// L3: Sh + Cr = Nagaraja Tougue Resist
+// L4: Railgun: Repeating Crossbow
+// L5: Pick Me Up = Star + Eth Talisman
+// L6: A bonus
