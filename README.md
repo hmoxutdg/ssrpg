@@ -68,4 +68,21 @@
 [29-08-24]
 
 > Around 20/35 i think. New quests coming every 6 or 12 hours. So the wait begins.
-> 
+
+
+[04-09-24]
+
+> Truth be told. I came to a point where everthign seemed to shun me to the point of no return.
+> I know seems cliche but i survived somehow i think. Rethinking my whole strat with the game. It definitely pushes you hard.
+
+> Now the grind continues. Added a new file for rechargingthe broken Talisman.
+
+> Added a file called **Core Gen 1** it'll help with just a generic grind. Automating a few things such as loadout shifting. picking up items when needed + Healing at a good moments notice/auto.
+
+> Pretty basic stuff i know. I kinda deleted everythign trying to start from scratch with a new perspective but what was needed an expansion in current strats rather than starting anew.
+
+>  Broke all of items except my loadout set items. & removed Enchanments from most. Remade items + re enchanted items. To have some clarity of inventory & my mind to be honest.
+
+> This is fun. **Oh 35/35 Dead Wood Event.**
+
+> **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
