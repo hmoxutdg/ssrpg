@@ -107,8 +107,17 @@
 
 > The fuck was wrong with it.... I have no clue. It stopped working NOW too. and i am trying to fix whatever is wrong with it now.
 
-> This is me at 11:00 AM.
+**> This is me at 11:00 AM.**
 
+> I think it has something to do with **FRAMES**, is that makes any sense.
+> Okay so what the code is supposed to do is....
+
+**> summon void & when summon.count = 1, shift to a specefic loadout.**
+
+> The instance hits the ticker to summon the VOID but immediately shifts to the Loadout before completing the summon action. The summon Count increases to 1 but the summon doesn't get completely summoned. 
+> So this iswhere i am at. I keep making changes, sometimes they work out, but other or **most** of the time things get pretty much EFFED up.
+
+> 
 
 
 
