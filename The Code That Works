@@ -3,9 +3,11 @@ loadout 4
 ? hp < 20
  activate potion
 
-?summon.count = 0 & ?item.GetCooldown("aether_talisman") <= 0
- loadout 5
-  activate R
+?summon.count = 0
+ loadout 6
+  summon voidweaver
+   activate R
+//Somehow now this shit works. for some fucked reason
 
 ?summon.count = 1
  loadout 4
