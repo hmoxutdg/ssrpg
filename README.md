@@ -96,6 +96,21 @@
 
 > Added some minor adjustments + default loadout + item cooldown condition to "aether_talisman"
 
-> Working perfect currently + Will try in all biomes and shasre findings. 
 
-> This better work. Kudos. 
+[05-09-24]
+
+> Okay so there is something bloody wrong with the Mind Fucking Stone.
+> This bloody thing literally has a mind of its own. Sometimes the same code works and sometimes it doesn't. I am no even kidding i have been editing the same snippet of code multiplae fucking time just to do the same thing evertime.
+
+> The code was working fine tomorrow till the night. Stopped working. Some **MINDSTONE . MAIN** issue God knows what that is.
+> Edited the code, had no make multiple changes, rewrite most of the code then it started working somehow.
+
+> The fuck was wrong with it.... I have no clue. It stopped working NOW too. and i am trying to fix whatever is wrong with it now.
+
+> This is me at 11:00 AM.
+
+
+
+
+
+
