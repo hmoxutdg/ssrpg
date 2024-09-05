@@ -126,7 +126,7 @@
 
 > I'm Out. Fuck that Snake too....
 
-
+> And that EMERALD EGG is way too shiny for me. I might buy the Subscription for the month. I might. 
 
 
 
