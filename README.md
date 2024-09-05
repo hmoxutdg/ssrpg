@@ -1,10 +1,9 @@
-> This is a log on WHEN WHAT HAPPENED & maybe a planner for WHEN WHAT MIGHT HAPPEN.
+**> This is a log on WHEN WHAT HAPPENED & maybe a planner for WHEN WHAT MIGHT HAPPEN.
 
 > Oh & before i forget... " ALL HAIL NAGARAJA "
-> \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
+> \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ **
 
-
-[20-08-24] 
+**[20-08-24] **
 
 > 2024 Messing with Stone Script. First Log.
 > Setting up basic Weapons & favorable runes.
@@ -17,7 +16,7 @@
 > \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/ 
 
 
-[21-08-24]
+**[21-08-24]**
 
 > Blade of the Fallen God: Q3 completed & Q4 is a bitch 
 > Q4: I'm still experimenting with this, this one is way too slow, 
@@ -36,7 +35,7 @@
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 
-[22-08-24]
+**[22-08-24]**
 
 > 259K of 300K Reached. Blade OTF [Q4]
 > Lost 3-4 hours due to unexpected sleep, forgot to put it on Idle looping
@@ -55,7 +54,7 @@
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 
-[29-08-24]
+**[29-08-24]**
 
 > Yo been a week. Wnent on some unusual hiatus/ Day job got stingy, rarely get time to jot down stuff.
 > Took a mini break from the game. BACK NOW.
@@ -67,12 +66,12 @@
 > Will take some time, maybe finish over the weekend
 
 
-[29-08-24]
+**[29-08-24]**
 
 > Around 20/35 i think. New quests coming every 6 or 12 hours. So the wait begins.
 
 
-[04-09-24] P1
+**[04-09-24] P1**
 
 > Truth be told. I came to a point where everthign seemed to shun me to the point of no return.
 > I know seems cliche but i survived somehow i think. Rethinking my whole strat with the game. It definitely pushes you hard.
@@ -90,14 +89,14 @@
 > **Oh & before i forget... " ALL HAIL NAGARAJA " \(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/\(^o^)/**
 
 
-[04-09-24] P2
+**[04-09-24] P2**
 
 > Shit needed some experimentation. Kept not summoning buddy at start of each loop.
 
 > Added some minor adjustments + default loadout + item cooldown condition to "aether_talisman"
 
 
-[05-09-24]
+**[05-09-24] P1**
 
 > Okay so there is something bloody wrong with the Mind Fucking Stone.
 > This bloody thing literally has a mind of its own. Sometimes the same code works and sometimes it doesn't. I am no even kidding i have been editing the same snippet of code multiplae fucking time just to do the same thing evertime.
@@ -117,7 +116,16 @@
 > The instance hits the ticker to summon the VOID but immediately shifts to the Loadout before completing the summon action. The summon Count increases to 1 but the summon doesn't get completely summoned. 
 > So this iswhere i am at. I keep making changes, sometimes they work out, but other or **most** of the time things get pretty much EFFED up.
 
-> 
+
+**[05-09-24] P2**
+
+> Yup Fuck my Life. Been reading up and down the fucking manual for the past few hours. Checking to see if something could be added.
+> But all for naught, Deleted the snippet which was messing things up, jumbled the order, messed around with it. 
+
+> And somehow just somehow, It worked. I dont have the brain cells to think on **HOW**, but its working for now. SO i am happy. Made the change in the file **"The Code That Works"**. Check it out if you need.
+
+> I'm Out. Fuck that Snake too....
+
 
 
 
