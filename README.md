@@ -96,7 +96,7 @@
 > Added some minor adjustments + default loadout + item cooldown condition to "aether_talisman"
 
 
-**[05-09-24] P1**
+**[05-09-24] P1 11:00 AM**
 
 > Okay so there is something bloody wrong with the Mind Fucking Stone.
 > This bloody thing literally has a mind of its own. Sometimes the same code works and sometimes it doesn't. I am no even kidding i have been editing the same snippet of code multiplae fucking time just to do the same thing evertime.
@@ -117,7 +117,7 @@
 > So this iswhere i am at. I keep making changes, sometimes they work out, but other or **most** of the time things get pretty much EFFED up.
 
 
-**[05-09-24] P2**
+**[05-09-24] P2 03:00 PM**
 
 > Yup Fuck my Life. Been reading up and down the fucking manual for the past few hours. Checking to see if something could be added.
 > But all for naught, Deleted the snippet which was messing things up, jumbled the order, messed around with it. 
@@ -129,5 +129,8 @@
 > And that EMERALD EGG is way too shiny for me. I might buy the Subscription for the month. I might. 
 
 
+**[05-09-24] P3 04:19 PM**
+
+> Yeah so the code is currently in effect and working fine. 
 
 
