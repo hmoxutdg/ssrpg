@@ -143,19 +143,19 @@
 
 > Currently my loadout looks like this: 
 
-// L0: The stash + Not a real loadout + Potion
+> // L0: The stash + Not a real loadout + Potion
 
-// L1: PW + FW = AOE + Wands + Magic
+> // L1: PW + FW = AOE + Wands + Magic
 
-// L2: FS + VBS = Swords + Physical + Melee
+> // L2: FS + VBS = Swords + Physical + Melee
 
-// L3: Sh + Cr = Nagaraja Tougue Resist
+> // L3: Sh + Cr = Nagaraja Tougue Resist
 
-// L4: Railgun: Repeating Crossbow
+> // L4: Railgun: Repeating Crossbow
 
-// L5: Pick Me Up = Star + Axe
+> // L5: Pick Me Up = Star + Axe
 
-// L6: Calling the Void: Aether Talisman
+> // L6: Calling the Void: Aether Talisman
 
 > Plus unlocked something called a **Moonbloom Bud**
 
