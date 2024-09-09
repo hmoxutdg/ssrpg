@@ -134,3 +134,28 @@
 > Yeah so the code is currently in effect and working fine. 
 
 
+**[09-09-24] P3 04:19 PM**
+
+> was on Hiatus for the weekend. Ended up buying the **SUB** in the last couple of minutes. More like i bought event tickets, that sounded better. Now i have enough to buy the Premium rewards for the next event as well. The Grey + Green Tickets in your inventory. 
+
+> Anyways UPDATE: Going try to grind more for the career progress. 
+> I thought till now that the game only had +13 enchantment as the maz limit. Today i hit **+16** ENCHANTMENT Which has a **RAINBOW FLAVOR TEXT** as the color. Which is fucking amazing man. 
+
+> Currently my loadout looks like this: 
+// L0: The stash + Not a real loadout + Potion
+// L1: PW + FW = AOE + Wands + Magic
+// L2: FS + VBS = Swords + Physical + Melee
+// L3: Sh + Cr = Nagaraja Tougue Resist
+// L4: Railgun: Repeating Crossbow
+// L5: Pick Me Up = Star + Axe
+// L6: Calling the Void: Aether Talisman
+
+> Plus unlocked something called a **Moonbloom Bud**
+
+
+
+
+
+
+
+
