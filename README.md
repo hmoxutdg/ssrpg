@@ -159,7 +159,9 @@
 
 > Plus unlocked something called a **Moonbloom Bud**
 
+> Oh and remeber i said alot about the code not working well its like this: **The code is OK more like PERFECT, Its just something wrong with the Mind Stone itself.** I mean i tried all logic & all kinds of conditioning to make it work but NO. All i have to do now is start a RUN, remove a line of code. End run restore that line of code and **EVERYTHING RUNS ALRIGHT**. But i kinda have to do this everytime i start the game/ open a new instance of the app or just open the app in general.
 
+> YUP 
 
 
 
