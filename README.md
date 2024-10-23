@@ -164,7 +164,16 @@
 > YUP 
 
 
+**[23-10-24]** 11:42 AM
 
+> Been on a hiatus for fiocused grind for more than a month now. Probs due to some health issues i was facing. 
 
+> Kept up on the offline loop grind for basic resources and ki. 
+> got back to the game. Raeached Cave of Fear Green 1 or 16*. 
+
+> currenly grinding for the Green Part 1 Event kinda scary not gonna lie. 
+
+> Only 4 days and some hours left in the event. SO a continuos grind paralle to, day to day stuff. 
+> Official Discord is a great resource for tips & tricks. 
 
 
